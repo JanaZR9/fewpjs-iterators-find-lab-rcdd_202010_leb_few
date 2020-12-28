@@ -9,5 +9,5 @@ function superbowlWin(record){
   if(r)
   return r.year;
   else 
-  return 'undefined';
+  return undefined;
 }
